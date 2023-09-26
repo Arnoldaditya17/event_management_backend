@@ -30,12 +30,12 @@ To get started with the University Event Management system, follow these steps:
 
 2. Build and run the Spring Boot application.
 
-3. Access the API endpoints using tools like Postman or curl.
+3. Access the API endpoints using tools like Postman or swagger.
 
 4. Explore the comprehensive functionality provided for managing students and events.
 
-Here's a brief overview of the key components and features:
 
+## **Here's a brief overview of the key components and features:**
 ### Student Management
 
 - **Add Student**: Easily add new students to the system with detailed information, including their names, ages, and departments. The system ensures data integrity and validates inputs to maintain accurate records.
