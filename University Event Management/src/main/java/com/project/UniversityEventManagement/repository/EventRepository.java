@@ -1,6 +1,6 @@
-package com.projectRaj.UniversityEventManagement.repository;
+package com.project.UniversityEventManagement.repository;
 
-import com.projectRaj.UniversityEventManagement.model.Event;
+import com.project.UniversityEventManagement.model.Event;
 import org.springframework.data.jpa.repository.JpaRepository;
 import java.time.LocalDate;
 import java.util.List;

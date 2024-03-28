@@ -1,4 +1,4 @@
-package com.projectRaj.UniversityEventManagement;
+package com.project.UniversityEventManagement;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

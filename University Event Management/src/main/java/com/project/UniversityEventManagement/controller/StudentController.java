@@ -1,8 +1,8 @@
-package com.projectRaj.UniversityEventManagement.controller;
+package com.project.UniversityEventManagement.controller;
 
-import com.projectRaj.UniversityEventManagement.model.Department;
-import com.projectRaj.UniversityEventManagement.model.Student;
-import com.projectRaj.UniversityEventManagement.service.StudentService;
+import com.project.UniversityEventManagement.model.Department;
+import com.project.UniversityEventManagement.model.Student;
+import com.project.UniversityEventManagement.service.StudentService;
 import jakarta.validation.Valid;
 import jakarta.validation.constraints.NotNull;
 import org.springframework.beans.factory.annotation.Autowired;

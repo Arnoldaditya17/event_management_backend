@@ -1,4 +1,4 @@
-package com.projectRaj.UniversityEventManagement.model;
+package com.project.UniversityEventManagement.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

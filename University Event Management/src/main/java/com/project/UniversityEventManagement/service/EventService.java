@@ -1,13 +1,11 @@
-package com.projectRaj.UniversityEventManagement.service;
+package com.project.UniversityEventManagement.service;
 
-import com.projectRaj.UniversityEventManagement.model.Event;
-import com.projectRaj.UniversityEventManagement.repository.EventRepository;
-import jakarta.transaction.Transactional;
+import com.project.UniversityEventManagement.model.Event;
+import com.project.UniversityEventManagement.repository.EventRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.time.LocalDate;
-import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Optional;
 

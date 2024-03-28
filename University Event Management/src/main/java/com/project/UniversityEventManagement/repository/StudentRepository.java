@@ -1,6 +1,6 @@
-package com.projectRaj.UniversityEventManagement.repository;
+package com.project.UniversityEventManagement.repository;
 
-import com.projectRaj.UniversityEventManagement.model.Student;
+import com.project.UniversityEventManagement.model.Student;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface StudentRepository extends JpaRepository<Student, Long> {

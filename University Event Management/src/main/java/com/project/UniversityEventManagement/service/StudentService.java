@@ -1,8 +1,8 @@
-package com.projectRaj.UniversityEventManagement.service;
+package com.project.UniversityEventManagement.service;
 
-import com.projectRaj.UniversityEventManagement.model.Department;
-import com.projectRaj.UniversityEventManagement.model.Student;
-import com.projectRaj.UniversityEventManagement.repository.StudentRepository;
+import com.project.UniversityEventManagement.model.Department;
+import com.project.UniversityEventManagement.model.Student;
+import com.project.UniversityEventManagement.repository.StudentRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
